@@ -79,9 +79,9 @@
 
 .SubHeader{
     font-family: CMR;
-    font-size: 28px;
+    font-size: 32px;
     text-align: Left;
-    margin-top: 10px;
+    margin-top: 12px;
     margin-bottom: 20px;
     line-height: 125%;
 }
@@ -91,8 +91,8 @@
     font-size: 23px;
     text-align: Left;
     margin-top: 13px;
-    margin-bottom: 45px;
-    line-height: 125%;
+    margin-bottom: 32px;
+    line-height: 115%;
 }
 
 .footerSize{
