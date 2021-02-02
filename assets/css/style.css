@@ -7,6 +7,18 @@
     src: url(../fonts/cmuserif_bold_macroman/cmunbx-webfont.woff);
   }
 
+  ul {
+
+    font-family: CMR;
+    font-size: 23px;
+    text-align: Left;
+    margin-top: 13px;
+    margin-bottom: 45px;
+    line-height: 125%;
+
+  }
+
+
 
 .LatexTitle{
     font-family: CMR;
