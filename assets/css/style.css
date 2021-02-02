@@ -8,6 +8,7 @@
   }
 
   ul {
+
     font-family: CMR;
     font-size: 23px;
     text-align: Left;
@@ -75,6 +76,14 @@
     margin-top: 13px;
     margin-bottom: 20px;
 }
+
+.SubHeader{
+    font-family: CMR;
+    font-size: 28px;
+    text-align: Left;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    line-height: 125%;
 
 .BodyText{
     font-family: CMR;
